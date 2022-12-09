@@ -5,5 +5,4 @@
 
 - 💬 Ask me about **python,rest api,django**
 
-- ⚡ Fun fact **😎**
 
