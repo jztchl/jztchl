@@ -1,55 +1,40 @@
-<!-- Add your own images or use alternative image hosting for external images -->
+<h1 align="center">Hi there! 👋 I'm Vishnu K M</h1>
+<h3 align="center">A passionate Backend and noob developer from India 🚀</h3>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom">
-
-<h1 align="center">
-  Hi there, I'm Vishnu K M! 👋
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vishnu-k-m/" title="LinkedIn Profile">LinkedIn</a></code>
-  <code><a href="mailto: vishnukm94@gmail.com" title="Email">Email</a></code>
-</h5>
-<br>
 <p align="center">
-  I'm a Senior Backend Developer based in [Your Location]. I enjoy coding and building scalable applications.
-  <br>
-  🌱 Currently learning [Technology/Topic you are currently learning]
-  <br>
-  💬 Ask me anything about coding and technology on <a href="https://github.com/jztch/jztch/issues" title="Issues">GitHub</a>
-  <br>
-  📫 Reach out to me at <a href="mailto: vishnukm94@gmail.com">vishnukm94@gmail.com</a>
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
-
-<hr>
-<h2 align="center">🚀 Technology Stack & Tools 🛠️</h2>
-<br>
 <p align="center">
-  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
-  <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img title="Git" height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img title="GitHub" height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+  <img src="https://img.shields.io/badge/-SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/-MySQL-blueviolet?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-<hr>
-
-<h2 align="center">⚡ Stats & Achievements ⚡</h2>
-<br>
-<p align=center>
-  <!-- Add your stats and achievement images here -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 </p>
 
-<hr>
+---
 
-<h2 align="center">📊 My GitHub Journey 🌟</h2>
-<br>
-<!-- Add your GitHub journey here -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-blue" alt="Languages">
+  <br>
+  <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-darkgreen" alt="Frameworks & Libraries">
+</p>
 
-<h4 align="center">
-  <a href="https://github.com/jztch?tab=repositories" title="Show Repositories">🔎 Explore My Repositories 🔍</a>
-</h4>
+---
+
+### 📊 GitHub Stats
+
+![Vishnu K M's GitHub stats](https://github-readme-stats.vercel.app/api?username=jztchl&show_icons=true&theme=radical)
+
+---
+
+### 📞 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
+</p>
