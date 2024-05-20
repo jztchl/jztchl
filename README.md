@@ -4,8 +4,8 @@
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200px" alt="Daft Punk Octocat">
       <br>
       <br>
-      <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-      <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
+      <a href="https://www.linkedin.com/in/kmvishnu" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+      <a href="https://twitter.com/jztchl" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
     </td>
     <td align="center" valign="top" width="70%">
       <h1 align="center" style="font-size: 36px;">
