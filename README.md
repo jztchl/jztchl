@@ -1,6 +1,3 @@
-Certainly! Here's an updated version with TensorFlow, Flutter, Dart, and SQLite added to the technical skills section, and I've aligned the content for a cleaner look:
-
-```markdown
 <h1 align="center">Hi there! 👋 I'm Vishnu K M</h1>
 <h3 align="center">A passionate Backend developer from India 🚀</h3>
 
@@ -42,6 +39,3 @@ Certainly! Here's an updated version with TensorFlow, Flutter, Dart, and SQLite 
   <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
 </p>
-```
-
-This should display the additional technologies and align the content for a better presentation. How does this version look to you?
