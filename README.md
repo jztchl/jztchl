@@ -20,7 +20,7 @@
   <br>
   <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Git%20%7C%20Linux%20%28Ubuntu%29%20%7C%20Windows%20%7C%20MS%20Office%20Suite-lightgrey" alt="Tools & Technologies">
   <br>
-  <img src="https://img.shields.io/badge/Soft%20Skills-Analytical%20Thinking%20%7C%20Problem%20Solving%20%7C%20Time%20Management-critical" alt="Soft Skills">
+
 </p>
 
 ---
@@ -34,6 +34,6 @@
 ### 📞 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
 </p>
