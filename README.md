@@ -11,11 +11,17 @@
 
 ### 🌟 Technical Skills
 
-- **Languages:** Python, JavaScript, C++, Java, HTML, CSS
-- **Frameworks & Libraries:** Django, Django REST Framework, Bootstrap
-- **Databases:** MySQL
-- **Tools & Technologies:** Git, Linux (Ubuntu), Windows, MS Office Suite
-- **Soft Skills:** Analytical Thinking, Problem-Solving, Time Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS-blue" alt="Languages">
+  <br>
+  <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap-darkgreen" alt="Frameworks & Libraries">
+  <br>
+  <img src="https://img.shields.io/badge/Databases-MySQL-blueviolet" alt="Databases">
+  <br>
+  <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Git%20%7C%20Linux%20%28Ubuntu%29%20%7C%20Windows%20%7C%20MS%20Office%20Suite-lightgrey" alt="Tools & Technologies">
+  <br>
+  <img src="https://img.shields.io/badge/Soft%20Skills-Analytical%20Thinking%20%7C%20Problem%20Solving%20%7C%20Time%20Management-critical" alt="Soft Skills">
+</p>
 
 ---
 
