@@ -1,14 +1,18 @@
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td>
+    <td align="center" valign="top" width="30%">
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200px" alt="Daft Punk Octocat">
+      <br>
+      <br>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+      <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
     </td>
-    <td>
-      <h1 align="center">
+    <td align="center" valign="top" width="70%">
+      <h1 align="center" style="font-size: 36px;">
         <img src="https://img.shields.io/badge/-Hey%20there!-yellowgreen?style=for-the-badge" alt="Greeting">
         <img src="https://img.shields.io/badge/-Vishnu%20K%20M-orange?style=for-the-badge" alt="Name">
       </h1>
-      <h3 align="center">
+      <h3 align="center" style="font-size: 24px;">
         <img src="https://img.shields.io/badge/-Backend%20Maestro-darkred?style=for-the-badge" alt="Backend Skills">
         <img src="https://img.shields.io/badge/-Noob%20Developer-lightgrey?style=for-the-badge" alt="Noob Skills">
         <img src="https://img.shields.io/badge/-from%20India-blue?style=for-the-badge" alt="Location">
@@ -30,13 +34,4 @@
       </p>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-blue" alt="Languages">
-        <br>
-        <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-darkgreen" alt="Frameworks & Libraries">
-      </p>
-      <br>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://twitter.com/your-handle" target="\_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
-
-</p> </td> </tr> </table>
+        <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-blue" alt="Languages
