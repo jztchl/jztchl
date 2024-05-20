@@ -9,7 +9,7 @@
 
 ---
 
-### 🌟 Technical Skills
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS-blue" alt="Languages">
@@ -18,7 +18,7 @@
   <br>
   <img src="https://img.shields.io/badge/Databases-MySQL-blueviolet" alt="Databases">
   <br>
-  <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Git%20%7C%20Linux%20%28Ubuntu%29%20%7C%20Windows%20%7C%20MS%20Office%20Suite-lightgrey" alt="Tools & Technologies">
+  
   <br>
 
 </p>
