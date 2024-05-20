@@ -4,8 +4,16 @@
       <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200px" alt="Daft Punk Octocat">
     </td>
     <td>
-      <h1 align="center">Hey there! 🌞 I'm Vishnu K M</h1>
-      <h3 align="center">A Backend Maestro and a Noob Developer from India 🚀</h3>
+      <h1 align="center">
+        <img src="https://img.shields.io/badge/-Hey%20there!-yellowgreen?style=for-the-badge" alt="Greeting">
+        <img src="https://img.shields.io/badge/-Vishnu%20K%20M-orange?style=for-the-badge" alt="Name">
+      </h1>
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/-Backend%20Maestro-darkred?style=for-the-badge" alt="Backend Skills">
+        <img src="https://img.shields.io/badge/-Noob%20Developer-lightgrey?style=for-the-badge" alt="Noob Skills">
+        <img src="https://img.shields.io/badge/-from%20India-blue?style=for-the-badge" alt="Location">
+        <img src="https://img.shields.io/badge/-🚀-critical?style=for-the-badge" alt="Rocket">
+      </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -29,8 +37,6 @@
       <br>
       <p align="center">
         <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-        <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://twitter.com/your-handle" target="\_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter"></a>
+
+</p> </td> </tr> </table>
