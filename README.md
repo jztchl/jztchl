@@ -1,35 +1,58 @@
-<h1 align="center">Hi there! 👋 I'm Vishnu K M</h1>
-<h3 align="center">A passionate Backend and noob developer from India 🚀</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python">
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript">
-  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C">
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396">
-  <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart">
-  <img src="https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow">
-  <img src="https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=SQLite">
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap%20%7C%20Flutter%20%7C%20TensorFlow%20%7C%20Dart-000?style=for-the-badge">
+  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
-  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20SQLite-000?style=for-the-badge">
+  <br>
+  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
-
----
-
-### 📞 Let's Connect!
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-000?style=for-the-badge&logo=twitter"></a>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <!-- Add more languages and tools here -->
 </p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<!-- Add your stats here -->
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<!-- Add your repositories here -->
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
