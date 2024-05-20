@@ -24,13 +24,7 @@
   <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-darkgreen" alt="Frameworks & Libraries">
 </p>
 
----
 
-### 📊 GitHub Stats
-
-![Vishnu K M's GitHub stats](https://github-readme-stats.vercel.app/api?username=jztchl&show_icons=true&theme=radical)
-
----
 
 ### 📞 Let's Connect!
 
