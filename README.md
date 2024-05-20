@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom">
 
 <h1 align="center">
-  Hi there, I'm Osman DURDAĞ! 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vishnu+K M;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
 <h5 align="center">
