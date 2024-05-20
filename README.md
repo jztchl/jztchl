@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Vishnu K M</h1>
-<h3 align="center">A passionate Backend developer from India 🚀</h3>
+<h3 align="center">A passionate noob developer from India 🚀</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
