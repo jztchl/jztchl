@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20Django%20REST%20Framework%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-darkgreen" alt="Frameworks & Libraries">
   <br>
   <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20SQLite-blueviolet" alt="Databases">
-  <br>
-  <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Git%20%7C%20Linux%20%28Ubuntu%29%20%7C%20Windows%20%7C%20MS%20Office%20Suite-lightgrey" alt="Tools & Technologies">
-  <br>
-  <img src="https://img.shields.io/badge/Soft%20Skills-Analytical%20Thinking%20%7C%20Problem%20Solving%20%7C%20Time%20Management-critical" alt="Soft Skills">
 </p>
 
 ---
