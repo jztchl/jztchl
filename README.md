@@ -21,7 +21,7 @@
 
 ### 📊 GitHub Stats
 
-![Vishnu K M's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Vishnu K M's GitHub stats](https://github-readme-stats.vercel.app/api?username=jztchl&show_icons=true&theme=radical)
 
 ---
 
