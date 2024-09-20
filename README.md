@@ -1,10 +1,12 @@
 <div align="center">
-  
+   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
   <img src="/jz.gif"  width="220px" alt="pic" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
+   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
   <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; ">
     <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;"><br>
     Vishnu K M
   </h1>
+  
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   <h3 style="font-size: 28px; color:#3498db; font-family: 'Roboto', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: 1px;">
     <img src="https://img.shields.io/badge/-Backend-8e44ad?style=for-the-badge" alt="Backend Skills" style="vertical-align:middle; margin: 5px;">
@@ -29,11 +31,9 @@
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px; box-shadow: 0px 4px 12px rgba(0, 59, 87, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px; box-shadow: 0px 4px 12px rgba(68, 121, 161, 0.6); transition: transform 0.2s ease-in-out;">
     <br><br>
-     <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(2, 86, 155, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="margin: 10px; box-shadow: 0px 4px 12px rgba(1, 117, 194, 0.6); transition: transform 0.2s ease-in-out;">
-     <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
   </p>
   <p style="margin-top: 30px;">
     <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-4682B4?style=for-the-badge" alt="Languages" style="margin: 10px;">
