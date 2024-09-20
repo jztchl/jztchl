@@ -1,7 +1,7 @@
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
+   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="fire" style="width:150px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
   <img src="/jz.gif"  width="220px" alt="pic" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
-   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="TensorFlow" style="width:100px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
+   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="fire" style="width:150px;margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
   <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; ">
     <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;"><br>
     Vishnu K M
