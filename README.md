@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;">
     <br>Vishnu K M
   </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
   <h3 style="font-size: 28px; color:#3498db; font-family: 'Roboto', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: 1px;">
     <img src="https://img.shields.io/badge/-Backend-8e44ad?style=for-the-badge" alt="Backend Skills" style="vertical-align:middle; margin: 5px;">
     <img src="https://img.shields.io/badge/-Noob%20Developer-grey?style=for-the-badge" alt="Noob Skills" style="vertical-align:middle; margin: 5px;">
