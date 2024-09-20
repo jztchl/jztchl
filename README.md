@@ -1,7 +1,7 @@
 
-
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+  
   
   <img src="/jz.gif"  width="220px" alt="pic" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
   <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; ">
