@@ -1,23 +1,17 @@
+
+
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="220px" alt="Daft Punk Octocat" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
-  
   <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 4px 4px 12px rgba(0,0,0,0.8);">
     <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;">
     <br>Vishnu K M
   </h1>
-  
-  <!-- Adding visually appealing GIFs -->
-  <img src="https://user-images.githubusercontent.com/74038190/216656999-c53f8286-1ed5-4dc0-9c4d-165b9dd4a89d.gif" width="160" style="margin: 5px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);">
-  <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" width="160" style="margin: 5px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);">
-  <img src="https://user-images.githubusercontent.com/74038190/216658130-13d4140b-b57b-47b6-a19a-5547b42b47f6.gif" width="160" style="margin: 5px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);">
-  
   <h3 style="font-size: 28px; color:#3498db; font-family: 'Roboto', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: 1px;">
     <img src="https://img.shields.io/badge/-Backend-8e44ad?style=for-the-badge" alt="Backend Skills" style="vertical-align:middle; margin: 5px;">
     <img src="https://img.shields.io/badge/-Noob%20Developer-grey?style=for-the-badge" alt="Noob Skills" style="vertical-align:middle; margin: 5px;">
     <img src="https://img.shields.io/badge/-🇮🇳%20India-00BFFF?style=for-the-badge" alt="Location" style="vertical-align:middle; margin: 5px;">
     <img src="https://img.shields.io/badge/-🚀%20Ready%20to%20Launch-critical?style=for-the-badge" alt="Ready to Launch" style="vertical-align:middle; margin: 5px;">
   </h3>
-
   <p style="margin-top: 35px;">
     <a href="https://www.linkedin.com/in/kmvishnu" target="_blank">
       <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" style="margin: 10px; box-shadow: 0px 4px 12px rgba(10, 102, 194, 0.6); transition: transform 0.2s ease-in-out;">
@@ -26,7 +20,6 @@
       <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(29, 161, 242, 0.6); transition: transform 0.2s ease-in-out;">
     </a>
   </p>
-  
   <p style="margin-top: 30px;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
@@ -38,7 +31,6 @@
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(2, 86, 155, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="margin: 10px; box-shadow: 0px 4px 12px rgba(1, 117, 194, 0.6); transition: transform 0.2s ease-in-out;">
   </p>
-  
   <p style="margin-top: 30px;">
     <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-4682B4?style=for-the-badge" alt="Languages" style="margin: 10px;">
     <br><br>
