@@ -1,5 +1,5 @@
 
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
 <div align="center">
   
   
@@ -39,4 +39,5 @@
     <br><br>
     <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20DRF%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-006400?style=for-the-badge" alt="Frameworks & Libraries" style="margin: 10px;">
   </p>
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
