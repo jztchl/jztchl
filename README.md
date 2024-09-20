@@ -1,43 +1,37 @@
-<table align="center" width="100%" style="background: linear-gradient(135deg, #101010, #333); border-radius: 20px; padding: 40px; color: #fff; box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.6); font-family: 'Poppins', sans-serif;">
-  <tr>
-    <td align="center" valign="top" width="30%">
-      <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="220px" alt="Daft Punk Octocat" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
-      <br><br>
-      <a href="https://www.linkedin.com/in/kmvishnu" target="_blank">
-        <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" style="margin: 10px; box-shadow: 0px 4px 12px rgba(10, 102, 194, 0.6); transition: transform 0.2s ease-in-out;">
-      </a>
-      <a href="https://twitter.com/jztchl" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(29, 161, 242, 0.6); transition: transform 0.2s ease-in-out;">
-      </a>
-    </td>
-    <td align="center" valign="top" width="70%">
-      <h1 align="center" style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 4px 4px 12px rgba(0,0,0,0.8);">
-        <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;">
-        <span style="display:block; margin-top:10px;">Vishnu K M</span>
-      </h1>
-      <h3 align="center" style="font-size: 28px; color:#3498db; font-family: 'Roboto', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: 1px;">
-        <img src="https://img.shields.io/badge/-Backend-8e44ad?style=for-the-badge" alt="Backend Skills" style="vertical-align:middle; margin: 5px;">
-        <img src="https://img.shields.io/badge/-Noob%20Developer-grey?style=for-the-badge" alt="Noob Skills" style="vertical-align:middle; margin: 5px;">
-        <img src="https://img.shields.io/badge/-🇮🇳%20India-00BFFF?style=for-the-badge" alt="Location" style="vertical-align:middle; margin: 5px;">
-        <img src="https://img.shields.io/badge/-🚀%20Ready%20to%20Launch-critical?style=for-the-badge" alt="Ready to Launch" style="vertical-align:middle; margin: 5px;">
-      </h3>
-      <p align="center" style="margin-top: 35px;">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px; box-shadow: 0px 4px 12px rgba(247, 223, 30, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px; box-shadow: 0px 4px 12px rgba(0, 59, 87, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px; box-shadow: 0px 4px 12px rgba(68, 121, 161, 0.6); transition: transform 0.2s ease-in-out;">
-        <br><br>
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(2, 86, 155, 0.6); transition: transform 0.2s ease-in-out;">
-        <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="margin: 10px; box-shadow: 0px 4px 12px rgba(1, 117, 194, 0.6); transition: transform 0.2s ease-in-out;">
-      </p>
-      <p align="center" style="margin-top: 30px;">
-        <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-4682B4?style=for-the-badge" alt="Languages" style="margin: 10px;">
-        <br><br>
-        <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20DRF%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-006400?style=for-the-badge" alt="Frameworks & Libraries" style="margin: 10px;">
-      </p>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="220px" alt="Daft Punk Octocat" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
+  <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 4px 4px 12px rgba(0,0,0,0.8);">
+    <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;">
+    <br>Vishnu K M
+  </h1>
+  <h3 style="font-size: 28px; color:#3498db; font-family: 'Roboto', sans-serif; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); letter-spacing: 1px;">
+    <img src="https://img.shields.io/badge/-Backend-8e44ad?style=for-the-badge" alt="Backend Skills" style="vertical-align:middle; margin: 5px;">
+    <img src="https://img.shields.io/badge/-Noob%20Developer-grey?style=for-the-badge" alt="Noob Skills" style="vertical-align:middle; margin: 5px;">
+    <img src="https://img.shields.io/badge/-🇮🇳%20India-00BFFF?style=for-the-badge" alt="Location" style="vertical-align:middle; margin: 5px;">
+    <img src="https://img.shields.io/badge/-🚀%20Ready%20to%20Launch-critical?style=for-the-badge" alt="Ready to Launch" style="vertical-align:middle; margin: 5px;">
+  </h3>
+  <p style="margin-top: 35px;">
+    <a href="https://www.linkedin.com/in/kmvishnu" target="_blank">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" style="margin: 10px; box-shadow: 0px 4px 12px rgba(10, 102, 194, 0.6); transition: transform 0.2s ease-in-out;">
+    </a>
+    <a href="https://twitter.com/jztchl" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(29, 161, 242, 0.6); transition: transform 0.2s ease-in-out;">
+    </a>
+  </p>
+  <p style="margin-top: 30px;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px; box-shadow: 0px 4px 12px rgba(247, 223, 30, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px; box-shadow: 0px 4px 12px rgba(0, 59, 87, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 10px; box-shadow: 0px 4px 12px rgba(68, 121, 161, 0.6); transition: transform 0.2s ease-in-out;">
+    <br><br>
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin: 10px; box-shadow: 0px 4px 12px rgba(255, 111, 0, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 10px; box-shadow: 0px 4px 12px rgba(2, 86, 155, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="margin: 10px; box-shadow: 0px 4px 12px rgba(1, 117, 194, 0.6); transition: transform 0.2s ease-in-out;">
+  </p>
+  <p style="margin-top: 30px;">
+    <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20HTML%20%7C%20CSS%20%7C%20Dart-4682B4?style=for-the-badge" alt="Languages" style="margin: 10px;">
+    <br><br>
+    <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Django%20%7C%20DRF%20%7C%20Bootstrap%20%7C%20TensorFlow%20%7C%20Flutter%20%7C%20Dart-006400?style=for-the-badge" alt="Frameworks & Libraries" style="margin: 10px;">
+  </p>
+</div>
