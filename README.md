@@ -3,7 +3,7 @@
 <div align="center">
   <img src="/jz.gif"  width="220px" alt="pic" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);">
   <h1 style="font-size: 50px; color:#f39c12; font-family: 'Poppins', sans-serif; text-shadow: 4px 4px 12px rgba(0,0,0,0.8);">
-    <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/-Hey%20there!-brightgreen?style=for-the-badge" alt="Hey there!" style="vertical-align:middle;"><br>
     Vishnu K M
   </h1>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
