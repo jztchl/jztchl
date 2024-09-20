@@ -22,7 +22,7 @@
     </a>
   </p>
   <p style="margin-top: 30px;">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" style="margin: 10px; box-shadow: 0px 4px 12px rgba(55, 118, 171, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 10px; box-shadow: 0px 4px 12px rgba(9, 46, 32, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 10px; box-shadow: 0px 4px 12px rgba(247, 223, 30, 0.6); transition: transform 0.2s ease-in-out;">
     <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 10px; box-shadow: 0px 4px 12px rgba(0, 59, 87, 0.6); transition: transform 0.2s ease-in-out;">
